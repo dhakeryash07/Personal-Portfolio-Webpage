@@ -25,7 +25,7 @@ I am a final-year student at **Vellore Institute of Technology**, specializing i
 Feel free to reach out to me for any web development, design collaborations, or simply to connect!
 
 - **Email**: [dhakaryash15@gmail.com](mailto:dhakaryash15@gmail.com)
-- **LinkedIn**: [Yash Raj Dhaker](https://www.linkedin.com/in/yash-raj-dhaker)
+- **LinkedIn**: [Yash Raj Dhaker](https://www.linkedin.com/in/yash-raj-dhaker-1a1a88225/)
 - **GitHub**: [dhakeryash07](https://github.com/dhakeryash07)
 
 ## Installation
